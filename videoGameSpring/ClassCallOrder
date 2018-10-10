@@ -1,0 +1,8 @@
+BeanPackage = JavaBeans are classes that encapsulate many objects into a single object
+StartProgram = Driver or Main class
+VideoGame = Object or POJO
+VideoGameDao = Data Access Object: Abstract interface to some type of database or other persistence mechanism. Accesses the VideoGameMap.
+VideoGameMap = HashMap DataSturucter: The Map interface maps unique keys to values. A key is an object that you use to retrieve a value at a later date. Given a key and a value, you can store the value in a Map object.
+VideoGameImpl = Object or POJO that can implements multiple VideoGame objects.
+VideoGameServicing = An Interface to the VideoGameImpl class.
+BeanConfiguration = the Java Based Configuration class for Spring Framework.  
